@@ -6,3 +6,8 @@ requests
 python-whois
 numpy
 python-dotenv
+opencv-python-headless
+Pillow
+pyzbar
+transformers
+torch
